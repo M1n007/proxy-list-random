@@ -1,0 +1,15 @@
+{
+  "name": "proxy-list-random",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "m1n007q",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "util": "^0.11.1"
+  }
+}
