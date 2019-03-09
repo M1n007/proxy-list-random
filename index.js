@@ -18,7 +18,6 @@ module.exports = () =>
             allIP.push(ip);
           });
         }
-        console.log(util.isArray(allIP));
         resolve(
           util.inspect(allIP, {
             maxArrayLength: null,
